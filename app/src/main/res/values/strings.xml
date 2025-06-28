@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Random StringApp</string>
+    <string name="button_one_heading">Enter String Length to Generate it</string>
+    <string name="string_error_message_one">"Enter valid string value"</string>
+    <string name="string_error_message_two">String size cannot be blank</string>
+    <string name="button_one_label">Generate Random String</string>
+    <string name="button_two_label">Delete all data from database</string>
+    <string name="alert_dialog_heading">Permission required"</string>
+    <string name="alert_dialog_body">This feature needs read and write permission to access the content provider. Please grant them to proceed.</string>
+    <string name="alert_dialog_button_allow">Allow</string>
+    <string name="alert_dialog_button_cancel">Cancel</string>
+    <string name="record_button_heading">Delete</string>
+    <string name="generated_string_item_text_one">Value : %1$s</string>
+    <string name="generated_string_item_text_two">Length : %1$d</string>
+    <string name="generated_string_item_text_three">Created: %1$s</string>
+
+</resources>
